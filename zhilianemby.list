@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,us.nanflix.net
 IP-CIDR,111.229.46.243/32,no-resolve
 IP-CIDR,192.99.35.111/32,no-resolve
 DOMAIN-SUFFIX,a.emby.my
-DOMAIN-SUFFIX,lite.saturday.video
+DOMAIN-SUFFIX,lite.saturdayvideo.top
 DOMAIN-SUFFIX,cf.lilyemby.my
 DOMAIN-SUFFIX,emby.jingzhe.pro
 DOMAIN-SUFFIX,stream2.jingzhe.pro
