@@ -1,11 +1,10 @@
 # 规则名称: Emby
-# 规则统计: 21
+# 规则统计: 28
 DOMAIN-SUFFIX,jsq.mooguu.xyz
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,hka-emby3.aliz.work
 DOMAIN-SUFFIX,hka-emby.aliz.work
 DOMAIN-SUFFIX,free.28.al
-DOMAIN-SUFFIX,1024.name
 DOMAIN-SUFFIX,www.tanhuatv.site
 DOMAIN-SUFFIX,z.sfcj.org
 DOMAIN-SUFFIX,us.nanflix.net
@@ -20,7 +19,13 @@ DOMAIN-SUFFIX,entry.zox.show
 DOMAIN-SUFFIX,direct.zox.show
 DOMAIN-SUFFIX,581658.best
 DOMAIN-SUFFIX,hk.lilyemby.my
-DOMAIN-SUFFIX,cf.1024.one
 DOMAIN-SUFFIX,cf.zox.show
 DOMAIN-SUFFIX,entry.zox.show
 DOMAIN-SUFFIX,cf.imetyou.top
+DOMAIN-SUFFIX,rn.chilledmelon.com
+DOMAIN-SUFFIX,cloudf.chilledmelon.com
+DOMAIN-SUFFIX,seoul.chilledmelon.com
+DOMAIN-SUFFIX,sjc.chilledmelon.com
+DOMAIN-SUFFIX,daigua.chilledmelon.com
+DOMAIN-SUFFIX,mzlpin.chilledmelon.com
+DOMAIN-SUFFIX,mr.chilledmelon.com
