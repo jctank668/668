@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 33
+# 规则统计: 35
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,hka-emby3.aliz.work
@@ -33,3 +33,5 @@ DOMAIN-SUFFIX,ch.feiyue.lol
 DOMAIN-SUFFIX,zoxfree.3767483.xyz
 DOMAIN-SUFFIX,emby.heisi.org
 DOMAIN-SUFFIX,gm.yezi.my
+DOMAIN-SUFFIX,streamer-cf.pilipiliultra.com
+DOMAIN-SUFFIX,emby.pilipiliultra.com
