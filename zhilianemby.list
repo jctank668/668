@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 38
+# 规则统计: 39
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,hka-emby.aliz.work
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,us.nanflix.net
 IP-CIDR,111.229.46.243/32,no-resolve
 IP-CIDR,192.99.35.111/32,no-resolve
 DOMAIN-SUFFIX,a.emby.my
+DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,lite.saturdayvideo.top
 DOMAIN-SUFFIX,cf.lilyemby.my
 DOMAIN-SUFFIX,hk.lilyemby.my
