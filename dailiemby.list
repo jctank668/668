@@ -1,10 +1,9 @@
 # 规则名称: Emby
-# 规则统计: 13
+# 规则统计: 11
 DOMAIN-SUFFIX,misty.cx
 DOMAIN-SUFFIX,web.nebula-media.org
 DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN-SUFFIX,emby-cdn1.nebula-media.org
-DOMAIN-SUFFIX,cfloacl.emby.moe
 DOMAIN-SUFFIX,b.emby.my
 DOMAIN-SUFFIX,c.emby.my
 DOMAIN-SUFFIX,d.emby.my
