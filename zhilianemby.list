@@ -1,29 +1,22 @@
 # 规则名称: Emby
-# 规则统计: 49
+# 规则统计: 45
 DOMAIN-SUFFIX,jsq.vban.xyz
-DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,free.28.al
-DOMAIN-SUFFIX,tanhuatv.site
-DOMAIN-SUFFIX,us.nanflix.net
+DOMAIN-SUFFIX,free1.28.al
+DOMAIN-SUFFIX,free2.28.al
+DOMAIN-SUFFIX,free3.28.al
+DOMAIN-SUFFIX,free4.28.al
 IP-CIDR,111.229.46.243/32,no-resolve
 IP-CIDR,192.99.35.111/32,no-resolve
 DOMAIN-SUFFIX,a.emby.my
 DOMAIN-SUFFIX,emby.my
-DOMAIN-SUFFIX,cftest1.mobai.sbs
-DOMAIN-SUFFIX,pull-u5.mobai.sbs
 DOMAIN-SUFFIX,mobai.sbs
 DOMAIN-SUFFIX,lite.saturdayvideo.top
-DOMAIN-SUFFIX,cf.lilyemby.my
-DOMAIN-SUFFIX,hk.lilyemby.my
-DOMAIN-SUFFIX,jp.lilyemby.my
-DOMAIN-SUFFIX,cdn.lilyemby.my
+DOMAIN-SUFFIX,lilyemby.my
 DOMAIN-SUFFIX,emby.jingzhe.pro
 DOMAIN-SUFFIX,stream2.jingzhe.pro
 DOMAIN-SUFFIX,entry.zox.show
-DOMAIN-SUFFIX,entry-cdn.zox.show
-DOMAIN-SUFFIX,direct.zox.show
 DOMAIN-SUFFIX,play.3767483.xyz
-DOMAIN-SUFFIX,cf.imetyou.top
 DOMAIN-SUFFIX,rn.chilledmelon.com
 DOMAIN-SUFFIX,emby.chilledmelon.com
 DOMAIN-SUFFIX,seoul.chilledmelon.com
@@ -38,10 +31,7 @@ DOMAIN-SUFFIX,streamer-cf.pilipiliultra.com
 DOMAIN-SUFFIX,emby.pilipiliultra.com
 DOMAIN-SUFFIX,emby.zn.al
 DOMAIN-SUFFIX,hmian.sharepoint.com
-DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,emby.bangumi.ca
-DOMAIN-SUFFIX,de2.staryuki.me
-DOMAIN-SUFFIX,de1.staryuki.me
 DOMAIN-SUFFIX,hka-emby.aliz.work
 DOMAIN-SUFFIX,hkb-emby.aliz.work
 DOMAIN-SUFFIX,plumber.nezhasu.com
@@ -49,3 +39,9 @@ DOMAIN-SUFFIX,shouer.910427.xyz
 DOMAIN-SUFFIX,public.shrekmedia.org
 DOMAIN-SUFFIX,cf.sfcj.org
 DOMAIN-SUFFIX,cdn.sfcj.org
+DOMAIN-SUFFIX,emby.191920.xyz
+DOMAIN-SUFFIX,cf.5msky.com
+DOMAIN-SUFFIX,link00.okemby.org
+DOMAIN-SUFFIX,link01.okemby.org
+DOMAIN-SUFFIX,speedtestdeemby.191920.xyz
+DOMAIN-SUFFIX,speedtest-babybus.apple-cdn.net
