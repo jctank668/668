@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 10
+# 规则统计: 11
 DOMAIN-SUFFIX,misty.cx
 DOMAIN-SUFFIX,web.nebula-media.org
 DOMAIN-SUFFIX,emby.nebula-media.org
@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,emby.kim
 DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,cf.imetyou.top
 DOMAIN-SUFFIX,lite.liminalnet.com
+DOMAIN-SUFFIX,emby.feiniu.lol
