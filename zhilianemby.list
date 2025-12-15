@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 46
+# 规则统计: 49
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,free1.28.al
@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,seoul.chilledmelon.com
 DOMAIN-SUFFIX,mr.chilledmelon.com
 DOMAIN-SUFFIX,daigua.chilledmelon.com
 DOMAIN-SUFFIX,fra.chilledmelon.com
+DOMAIN-SUFFIX,sjc.chilledmelon.com
 DOMAIN-SUFFIX,ch.feiyue.lol
 DOMAIN-SUFFIX,zoxfree.3767483.xyz
 DOMAIN-SUFFIX,emby.heisi.org
@@ -46,3 +47,5 @@ DOMAIN-SUFFIX,cf.5msky.com
 DOMAIN-SUFFIX,link00.okemby.org
 DOMAIN-SUFFIX,link01.okemby.org
 DOMAIN-SUFFIX,speedtestemby.191920.xyz
+DOMAIN-SUFFIX,global.uhdnow.com
+DOMAIN-SUFFIX,v1.uhdnow.com
