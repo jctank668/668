@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 51
+# 规则统计: 54
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,free1.28.al
@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
 DOMAIN-SUFFIX,mobai.sbs
 DOMAIN-SUFFIX,lite.saturdayvideo.top
 DOMAIN-SUFFIX,lilyemby.my
+DOMAIN-SUFFIX,lilyemby.com
+DOMAIN-SUFFIX,tx.lilyemby.com
+DOMAIN-SUFFIX,aliyun.lilyemby.com
 DOMAIN-SUFFIX,emby.jingzhe.pro
 DOMAIN-SUFFIX,stream2.jingzhe.pro
 DOMAIN-SUFFIX,entry.zox.show
