@@ -1,11 +1,8 @@
 # 规则名称: Emby
-# 规则统计: 54
+# 规则统计: 51
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,free.28.al
-DOMAIN-SUFFIX,free1.28.al
-DOMAIN-SUFFIX,free2.28.al
-DOMAIN-SUFFIX,free3.28.al
-DOMAIN-SUFFIX,free4.28.al
+DOMAIN-SUFFIX,freestream.startspoint.com
 IP-CIDR,111.229.46.243/32,no-resolve
 IP-CIDR,192.99.35.111/32,no-resolve
 DOMAIN-SUFFIX,a.emby.my
