@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 51
+# 规则统计: 53
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,freestream.startspoint.com
@@ -28,9 +28,11 @@ DOMAIN-SUFFIX,fra.chilledmelon.com
 DOMAIN-SUFFIX,sjc.chilledmelon.com
 DOMAIN-SUFFIX,cf.xgua.de
 DOMAIN-SUFFIX,cf.icgua.de
+DOMAIN-SUFFIX,cf.icegua.de
 DOMAIN-SUFFIX,ch.feiyue.lol
 DOMAIN-SUFFIX,zoxfree.3767483.xyz
 DOMAIN-SUFFIX,emby.heisi.org
+DOMAIN-SUFFIX,emby666.alien666.de5.net
 DOMAIN-SUFFIX,gm.yezi.my
 DOMAIN-SUFFIX,streamer-cf.pilipiliultra.com
 DOMAIN-SUFFIX,emby.pilipiliultra.com
