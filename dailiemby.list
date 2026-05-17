@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 9
+# 规则统计: 10
 DOMAIN-SUFFIX,web.nebula-media.org
 DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN-SUFFIX,emby-cdn1.nebula-media.org
@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,emby.feiniu.lol
 DOMAIN-SUFFIX,cflocal.xxlb.net
 DOMAIN-SUFFIX,gousen.cc.cd
+DOMAIN-SUFFIX,emby.fastcdn.dpdns.org
